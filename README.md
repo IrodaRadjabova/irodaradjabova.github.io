@@ -24,19 +24,17 @@ _NLP:_ Langchain, Huggingface,
 OpenAI GPT models, LLAMA2.
 
 ### Education
-Data Scientist - March 2023 - July 2024
-Astrum IT Academy
+_Data Scientist_ - March 2023 - July 2024
+**Astrum IT Academy**
 
-Bachelor of Medicine, Medical Doctor - Sep 2011 - Jan 2018
+_Bachelor of Medicine, Medical Doctor_ - Sep 2011 - Jan 2018
 Major: General Medicine, General Practitioner
-Tashkent Medical Academy
+**Tashkent Medical Academy**
 
 ### Certificates
-“Machine Learning Engineer” 
-[Qwasar Silicon Valley Certificate](https://upskill.us.qwasar.io/certificates/MTM4MC1yYWRqYWJvdl9pLW9jdC0yMDIxLTQxLTc4Y2M=)
+[“Machine Learning Engineer” - Qwasar Silicon Valley Certificate](https://upskill.us.qwasar.io/certificates/MTM4MC1yYWRqYWJvdl9pLW9jdC0yMDIxLTQxLTc4Y2M=)
   
-“IBM Data Science”
-[Coursera Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6X6VA2MDC8LD)
+[“IBM Data Science” - Coursera Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6X6VA2MDC8LD)
 
 ### Work Experience
 
